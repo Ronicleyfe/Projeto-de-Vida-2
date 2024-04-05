@@ -63,10 +63,11 @@ font-family: 'Chakra Petch', sans-serif;
     border-bottom: 4px solid var(--verde);
 }
 
-.abas-texto{
+.abas-textos{
     background-color: var(--texto);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
 }
-
 @media screen and (min-width: 768px) {
     .botoes{
         display: flex;
